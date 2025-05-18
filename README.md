@@ -1,4 +1,4 @@
-# Distributed-ETL-Pipeline-on-AWS-EMR-using-Spark     ![License](https://img.shields.io/badge/License-MIT-blue.svg)
+# Distributed-ETL-Pipeline-on-AWS-EMR-using-Spark 
 
 This project demonstrates how to process large datasets using **Amazon EMR** and **Apache Spark**. It includes a Spark-based ETL pipeline, AWS CLI scripts for EMR management, and a sample dataset for testing purposes.
 
@@ -134,8 +134,3 @@ You can replace this with a larger structured dataset in formats such as **CSV**
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="20" height="20"> Instagram
 <h4>If you like, do follow me on Instagram</h4>
 <a href="https://www.instagram.com/vishaal_87">Connect with me on Instagram</a>
-
-## License
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
-
-This project is licensed under the MIT License.
